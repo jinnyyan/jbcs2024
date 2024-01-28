@@ -1,0 +1,9 @@
+services:
+  postgres_endpoint: provided_to_you
+  minio_endpoint: provided_to_you 
+minio:
+  access_key: provided_to_you
+  secret_key: provided_to_you
+postgres:
+  username: provided_to_you
+  password: provided_to_you
