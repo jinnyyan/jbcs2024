@@ -2,8 +2,8 @@ services:
   postgres_endpoint: provided_to_you
   minio_endpoint: provided_to_you 
 minio:
-  access_key: provided_to_you
-  secret_key: provided_to_you
+  access_key: go_to_minio_to_get
+  secret_key: go_to_minio_to_get
 postgres:
   username: provided_to_you
   password: provided_to_you
