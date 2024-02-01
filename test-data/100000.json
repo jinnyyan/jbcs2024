@@ -1,0 +1,5704 @@
+{
+    "centre_ctrl": [
+        {
+            "centre_id": 1,
+            "start_time": "2016-10-20T11:37:51.764000"
+        }
+    ],
+    "fpl": {
+        "fpl_arr": [
+            {
+                "approach_clearance": false,
+                "arrival_runway": null,
+                "ata": null,
+                "missed_approach_flag": false,
+                "star": null,
+                "time_stamp": "2016-10-20T08:46:02.056000"
+            }
+        ],
+        "fpl_base": [
+            {
+                "adar": null,
+                "adep": "EKCH",
+                "ades": "LKPR",
+                "aircraft_type": "B738",
+                "callsign": "NAX3580",
+                "equip_status_rvsm": true,
+                "flight_rules": "I",
+                "time_stamp": "2016-10-20T08:46:02.056000",
+                "wtc": "M"
+            }
+        ],
+        "fpl_clearance": [
+            {
+                "assign_heading_beacon": null,
+                "assigned_heading_val": null,
+                "assigned_speed_unit": null,
+                "assigned_speed_val": null,
+                "cfl": null,
+                "cfl_unit": null,
+                "time_stamp": "2016-10-20T08:46:02.056000"
+            },
+            {
+                "assign_heading_beacon": null,
+                "assigned_heading_val": null,
+                "assigned_speed_unit": null,
+                "assigned_speed_val": null,
+                "cfl": 190,
+                "cfl_unit": "F",
+                "time_stamp": "2016-10-20T11:31:05.006000"
+            },
+            {
+                "assign_heading_beacon": null,
+                "assigned_heading_val": null,
+                "assigned_speed_unit": null,
+                "assigned_speed_val": null,
+                "cfl": 250,
+                "cfl_unit": "F",
+                "time_stamp": "2016-10-20T11:37:55.123000"
+            }
+        ],
+        "fpl_dep": [
+            {
+                "atd": null,
+                "departure_runway": null,
+                "iobt": "2016-10-20T11:30:00",
+                "sid": null,
+                "time_stamp": "2016-10-20T08:46:02.056000"
+            },
+            {
+                "atd": null,
+                "departure_runway": "04R",
+                "iobt": "2016-10-20T11:30:00",
+                "sid": "SIMEG7A",
+                "time_stamp": "2016-10-20T11:00:01.142000"
+            },
+            {
+                "atd": null,
+                "departure_runway": "04R",
+                "iobt": "2016-10-20T11:30:00",
+                "sid": null,
+                "time_stamp": "2016-10-20T11:37:58.636000"
+            }
+        ],
+        "fpl_holding": [
+            {
+                "hold_stack_vol_name": null,
+                "holding_entry_time": null,
+                "holding_leaving_time": null,
+                "holding_stack_status": "NO HOLD",
+                "holding_status": "NO HOLD",
+                "time_stamp": "2016-10-20T08:46:02.056000"
+            }
+        ],
+        "fpl_plan_update": [
+            {
+                "copn": "ADVIS",
+                "copn_pel": 350,
+                "copn_pel_unit": "F",
+                "copx": "SALLO",
+                "copx_pel": 250,
+                "copx_pel_unit": "F",
+                "icao_route": "SIMEG M736 SALLO UM44 KOGIM UM725 HDO M725 GOLOP",
+                "rfl_string": "F350",
+                "tas_string": "N0438",
+                "time_stamp": "2016-10-20T08:46:02.056000"
+            },
+            {
+                "copn": "ADVIS",
+                "copn_pel": 350,
+                "copn_pel_unit": "F",
+                "copx": "SALLO",
+                "copx_pel": 250,
+                "copx_pel_unit": "F",
+                "icao_route": "SIMEG7A SIMEG M736 SALLO UM44 KOGIM UM725 HDO M725 GOLOP",
+                "rfl_string": "F350",
+                "tas_string": "N0438",
+                "time_stamp": "2016-10-20T11:00:01.142000"
+            },
+            {
+                "copn": "XSIMX",
+                "copn_pel": 190,
+                "copn_pel_unit": "F",
+                "copx": "SALLO",
+                "copx_pel": 250,
+                "copx_pel_unit": "F",
+                "icao_route": "SIMEG7A SIMEG M736 SALLO UM44 KOGIM UM725 HDO M725 GOLOP",
+                "rfl_string": "F350",
+                "tas_string": "N0438",
+                "time_stamp": "2016-10-20T11:31:05.006000"
+            },
+            {
+                "copn": "XSIMX",
+                "copn_pel": 190,
+                "copn_pel_unit": "F",
+                "copx": "SALLO",
+                "copx_pel": 250,
+                "copx_pel_unit": "F",
+                "icao_route": "Z9034 CH360 Z9048 Z9049 5531N01254E DCT SALLO UM44 KOGIM UM725 HDO M725 GOLOP",
+                "rfl_string": "F350",
+                "tas_string": "N0438",
+                "time_stamp": "2016-10-20T11:37:58.636000"
+            },
+            {
+                "copn": "XSIMX",
+                "copn_pel": 190,
+                "copn_pel_unit": "F",
+                "copx": "SALLO",
+                "copx_pel": 250,
+                "copx_pel_unit": "F",
+                "icao_route": "Z9034 CH360 Z9048 Z9049 5531N01254E DCT 5517N01304E DCT HDO M725 GOLOP",
+                "rfl_string": "F350",
+                "tas_string": "N0438",
+                "time_stamp": "2016-10-20T11:40:38.729000"
+            }
+        ]
+    },
+    "id": 100000,
+    "plots": [
+        {
+            "I062/105": {
+                "lat": 55.34817159175873,
+                "lon": 13.029962182044983
+            },
+            "I062/136": {
+                "measured_flight_level": 146.25
+            },
+            "I062/185": {
+                "vx": 78.5,
+                "vy": -164.5
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 3150.0
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 3037.5
+                },
+                "subitem26": {
+                    "ias": 307
+                },
+                "subitem27": {
+                    "mach": 0.6
+                },
+                "subitem3": {
+                    "mag_hdg": 149.765625
+                },
+                "subitem6": {
+                    "altitude": 25000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 25000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:40:02.898437"
+        },
+        {
+            "I062/105": {
+                "lat": 55.340731143951416,
+                "lon": 13.03626000881195
+            },
+            "I062/136": {
+                "measured_flight_level": 149.0
+            },
+            "I062/185": {
+                "vx": 78.75,
+                "vy": -164.75
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 3075.0
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 3200.0
+                },
+                "subitem26": {
+                    "ias": 307
+                },
+                "subitem27": {
+                    "mach": 0.608
+                },
+                "subitem3": {
+                    "mag_hdg": 149.765625
+                },
+                "subitem6": {
+                    "altitude": 25000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 25000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:40:07.898437"
+        },
+        {
+            "I062/105": {
+                "lat": 55.333242416381836,
+                "lon": 13.042418360710144
+            },
+            "I062/136": {
+                "measured_flight_level": 150.25
+            },
+            "I062/185": {
+                "vx": 78.5,
+                "vy": -165.0
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 3043.75
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 3293.75
+                },
+                "subitem26": {
+                    "ias": 306
+                },
+                "subitem27": {
+                    "mach": 0.608
+                },
+                "subitem3": {
+                    "mag_hdg": 149.765625
+                },
+                "subitem6": {
+                    "altitude": 25000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 25000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:40:12.898437"
+        },
+        {
+            "I062/105": {
+                "lat": 55.32562494277954,
+                "lon": 13.048823475837708
+            },
+            "I062/136": {
+                "measured_flight_level": 153.0
+            },
+            "I062/185": {
+                "vx": 79.0,
+                "vy": -165.75
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 3056.25
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 3262.5
+                },
+                "subitem26": {
+                    "ias": 306
+                },
+                "subitem27": {
+                    "mach": 0.608
+                },
+                "subitem3": {
+                    "mag_hdg": 149.58984375
+                },
+                "subitem6": {
+                    "altitude": 25000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 25000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:40:17.898437"
+        },
+        {
+            "I062/105": {
+                "lat": 55.318018198013306,
+                "lon": 13.05523931980133
+            },
+            "I062/136": {
+                "measured_flight_level": 156.5
+            },
+            "I062/185": {
+                "vx": 79.5,
+                "vy": -166.0
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 3062.5
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2943.75
+                },
+                "subitem26": {
+                    "ias": 306
+                },
+                "subitem27": {
+                    "mach": 0.616
+                },
+                "subitem3": {
+                    "mag_hdg": 149.58984375
+                },
+                "subitem6": {
+                    "altitude": 25000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 25000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:40:22.898437"
+        },
+        {
+            "I062/105": {
+                "lat": 55.310309529304504,
+                "lon": 13.061896562576294
+            },
+            "I062/136": {
+                "measured_flight_level": 159.0
+            },
+            "I062/185": {
+                "vx": 80.5,
+                "vy": -167.25
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 3087.5
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 3325.0
+                },
+                "subitem26": {
+                    "ias": 306
+                },
+                "subitem27": {
+                    "mach": 0.616
+                },
+                "subitem3": {
+                    "mag_hdg": 149.58984375
+                },
+                "subitem6": {
+                    "altitude": 25000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 25000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:40:27.898437"
+        },
+        {
+            "I062/105": {
+                "lat": 55.30262231826782,
+                "lon": 13.068419694900513
+            },
+            "I062/136": {
+                "measured_flight_level": 162.0
+            },
+            "I062/185": {
+                "vx": 81.0,
+                "vy": -167.75
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 3050.0
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 3293.75
+                },
+                "subitem26": {
+                    "ias": 306
+                },
+                "subitem27": {
+                    "mach": 0.616
+                },
+                "subitem3": {
+                    "mag_hdg": 149.765625
+                },
+                "subitem6": {
+                    "altitude": 25000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 25000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:40:32.898437"
+        },
+        {
+            "I062/105": {
+                "lat": 55.2947473526001,
+                "lon": 13.074889183044434
+            },
+            "I062/136": {
+                "measured_flight_level": 164.75
+            },
+            "I062/185": {
+                "vx": 81.25,
+                "vy": -169.75
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 3056.25
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 3106.25
+                },
+                "subitem26": {
+                    "ias": 305
+                },
+                "subitem27": {
+                    "mach": 0.624
+                },
+                "subitem3": {
+                    "mag_hdg": 149.765625
+                },
+                "subitem6": {
+                    "altitude": 25000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 25000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:40:37.898437"
+        },
+        {
+            "I062/105": {
+                "lat": 55.28719425201416,
+                "lon": 13.08123528957367
+            },
+            "I062/136": {
+                "measured_flight_level": 166.5
+            },
+            "I062/185": {
+                "vx": 81.0,
+                "vy": -169.25
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 3050.0
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2912.5
+                },
+                "subitem26": {
+                    "ias": 304
+                },
+                "subitem27": {
+                    "mach": 0.624
+                },
+                "subitem3": {
+                    "mag_hdg": 149.765625
+                },
+                "subitem6": {
+                    "altitude": 25000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 25000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:40:42.898437"
+        },
+        {
+            "I062/105": {
+                "lat": 55.27945876121521,
+                "lon": 13.08771014213562
+            },
+            "I062/136": {
+                "measured_flight_level": 168.25
+            },
+            "I062/185": {
+                "vx": 81.5,
+                "vy": -170.25
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 3037.5
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2750.0
+                },
+                "subitem26": {
+                    "ias": 304
+                },
+                "subitem27": {
+                    "mach": 0.624
+                },
+                "subitem3": {
+                    "mag_hdg": 149.765625
+                },
+                "subitem6": {
+                    "altitude": 25000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 25000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:40:47.898437"
+        },
+        {
+            "I062/105": {
+                "lat": 55.27180373668671,
+                "lon": 13.094131350517273
+            },
+            "I062/136": {
+                "measured_flight_level": 171.0
+            },
+            "I062/185": {
+                "vx": 81.5,
+                "vy": -170.25
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2968.75
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2943.75
+                },
+                "subitem26": {
+                    "ias": 305
+                },
+                "subitem27": {
+                    "mach": 0.624
+                },
+                "subitem3": {
+                    "mag_hdg": 149.58984375
+                },
+                "subitem6": {
+                    "altitude": 25000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 25000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:40:52.898437"
+        },
+        {
+            "I062/105": {
+                "lat": 55.264073610305786,
+                "lon": 13.100552558898926
+            },
+            "I062/136": {
+                "measured_flight_level": 174.0
+            },
+            "I062/185": {
+                "vx": 81.75,
+                "vy": -170.75
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2868.75
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2881.25
+                },
+                "subitem26": {
+                    "ias": 304
+                },
+                "subitem27": {
+                    "mach": 0.632
+                },
+                "subitem3": {
+                    "mag_hdg": 149.765625
+                },
+                "subitem6": {
+                    "altitude": 25000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 25000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:40:57.898437"
+        },
+        {
+            "I062/105": {
+                "lat": 55.25642395019531,
+                "lon": 13.106796741485596
+            },
+            "I062/136": {
+                "measured_flight_level": 175.75
+            },
+            "I062/185": {
+                "vx": 81.25,
+                "vy": -170.75
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2856.25
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2525.0
+                },
+                "subitem26": {
+                    "ias": 303
+                },
+                "subitem27": {
+                    "mach": 0.632
+                },
+                "subitem3": {
+                    "mag_hdg": 149.94140625
+                },
+                "subitem6": {
+                    "altitude": 25000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 25000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:41:02.898437"
+        },
+        {
+            "I062/105": {
+                "lat": 55.24868309497833,
+                "lon": 13.113132119178772
+            },
+            "I062/136": {
+                "measured_flight_level": 178.0
+            },
+            "I062/185": {
+                "vx": 81.25,
+                "vy": -171.0
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2718.75
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2400.0
+                },
+                "subitem26": {
+                    "ias": 303
+                },
+                "subitem27": {
+                    "mach": 0.632
+                },
+                "subitem3": {
+                    "mag_hdg": 149.94140625
+                },
+                "subitem6": {
+                    "altitude": 25000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 25000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:41:07.898437"
+        },
+        {
+            "I062/105": {
+                "lat": 55.24094223976135,
+                "lon": 13.119397759437561
+            },
+            "I062/136": {
+                "measured_flight_level": 180.0
+            },
+            "I062/185": {
+                "vx": 81.0,
+                "vy": -171.25
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2631.25
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2687.5
+                },
+                "subitem26": {
+                    "ias": 305
+                },
+                "subitem27": {
+                    "mach": 0.64
+                },
+                "subitem3": {
+                    "mag_hdg": 150.1171875
+                },
+                "subitem6": {
+                    "altitude": 25000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 25000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:41:12.898437"
+        },
+        {
+            "I062/105": {
+                "lat": 55.23292779922485,
+                "lon": 13.125706315040588
+            },
+            "I062/136": {
+                "measured_flight_level": 182.25
+            },
+            "I062/185": {
+                "vx": 80.75,
+                "vy": -173.0
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2531.25
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2818.75
+                },
+                "subitem26": {
+                    "ias": 305
+                },
+                "subitem27": {
+                    "mach": 0.64
+                },
+                "subitem3": {
+                    "mag_hdg": 150.29296875
+                },
+                "subitem6": {
+                    "altitude": 25000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 30000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:41:17.898437"
+        },
+        {
+            "I062/105": {
+                "lat": 55.22502064704895,
+                "lon": 13.132127523422241
+            },
+            "I062/136": {
+                "measured_flight_level": 184.25
+            },
+            "I062/185": {
+                "vx": 81.0,
+                "vy": -173.5
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2550.0
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2687.5
+                },
+                "subitem26": {
+                    "ias": 304
+                },
+                "subitem27": {
+                    "mach": 0.64
+                },
+                "subitem3": {
+                    "mag_hdg": 150.29296875
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:41:22.898437"
+        },
+        {
+            "I062/105": {
+                "lat": 55.21705448627472,
+                "lon": 13.138457536697388
+            },
+            "I062/136": {
+                "measured_flight_level": 187.0
+            },
+            "I062/185": {
+                "vx": 81.0,
+                "vy": -174.25
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2575.0
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2493.75
+                },
+                "subitem26": {
+                    "ias": 305
+                },
+                "subitem27": {
+                    "mach": 0.648
+                },
+                "subitem3": {
+                    "mag_hdg": 150.29296875
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:41:27.898437"
+        },
+        {
+            "I062/105": {
+                "lat": 55.20910978317261,
+                "lon": 13.144782185554504
+            },
+            "I062/136": {
+                "measured_flight_level": 189.0
+            },
+            "I062/185": {
+                "vx": 81.0,
+                "vy": -174.75
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2550.0
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2337.5
+                },
+                "subitem26": {
+                    "ias": 305
+                },
+                "subitem27": {
+                    "mach": 0.648
+                },
+                "subitem3": {
+                    "mag_hdg": 150.1171875
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:41:32.898437"
+        },
+        {
+            "I062/105": {
+                "lat": 55.201213359832764,
+                "lon": 13.150935173034668
+            },
+            "I062/136": {
+                "measured_flight_level": 190.75
+            },
+            "I062/185": {
+                "vx": 80.5,
+                "vy": -175.0
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2531.25
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2593.75
+                },
+                "subitem26": {
+                    "ias": 305
+                },
+                "subitem27": {
+                    "mach": 0.648
+                },
+                "subitem3": {
+                    "mag_hdg": 149.94140625
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:41:37.898437"
+        },
+        {
+            "I062/105": {
+                "lat": 55.19352614879608,
+                "lon": 13.157061338424683
+            },
+            "I062/136": {
+                "measured_flight_level": 192.25
+            },
+            "I062/185": {
+                "vx": 80.5,
+                "vy": -175.5
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2531.25
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2462.5
+                },
+                "subitem26": {
+                    "ias": 305
+                },
+                "subitem27": {
+                    "mach": 0.656
+                },
+                "subitem3": {
+                    "mag_hdg": 150.1171875
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:41:42.695312"
+        },
+        {
+            "I062/105": {
+                "lat": 55.185441970825195,
+                "lon": 13.163444995880127
+            },
+            "I062/136": {
+                "measured_flight_level": 194.0
+            },
+            "I062/185": {
+                "vx": 81.0,
+                "vy": -176.25
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2431.25
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2525.0
+                },
+                "subitem26": {
+                    "ias": 306
+                },
+                "subitem27": {
+                    "mach": 0.656
+                },
+                "subitem3": {
+                    "mag_hdg": 150.1171875
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:41:47.695312"
+        },
+        {
+            "I062/105": {
+                "lat": 55.1772665977478,
+                "lon": 13.170005679130554
+            },
+            "I062/136": {
+                "measured_flight_level": 196.0
+            },
+            "I062/185": {
+                "vx": 81.75,
+                "vy": -177.75
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2437.5
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2656.25
+                },
+                "subitem26": {
+                    "ias": 306
+                },
+                "subitem27": {
+                    "mach": 0.656
+                },
+                "subitem3": {
+                    "mag_hdg": 150.1171875
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:41:52.695312"
+        },
+        {
+            "I062/105": {
+                "lat": 55.16915559768677,
+                "lon": 13.176571726799011
+            },
+            "I062/136": {
+                "measured_flight_level": 198.75
+            },
+            "I062/185": {
+                "vx": 82.25,
+                "vy": -178.5
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2493.75
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2656.25
+                },
+                "subitem26": {
+                    "ias": 306
+                },
+                "subitem27": {
+                    "mach": 0.664
+                },
+                "subitem3": {
+                    "mag_hdg": 149.94140625
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:41:57.695312"
+        },
+        {
+            "I062/105": {
+                "lat": 55.16104996204376,
+                "lon": 13.183159232139587
+            },
+            "I062/136": {
+                "measured_flight_level": 201.0
+            },
+            "I062/185": {
+                "vx": 82.75,
+                "vy": -179.0
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2512.5
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2625.0
+                },
+                "subitem26": {
+                    "ias": 306
+                },
+                "subitem27": {
+                    "mach": 0.664
+                },
+                "subitem3": {
+                    "mag_hdg": 149.94140625
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:42:02.695312"
+        },
+        {
+            "I062/105": {
+                "lat": 55.152971148490906,
+                "lon": 13.18960726261139
+            },
+            "I062/136": {
+                "measured_flight_level": 202.25
+            },
+            "I062/185": {
+                "vx": 82.5,
+                "vy": -179.0
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2562.5
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2593.75
+                },
+                "subitem26": {
+                    "ias": 306
+                },
+                "subitem27": {
+                    "mach": 0.664
+                },
+                "subitem3": {
+                    "mag_hdg": 149.94140625
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:42:07.695312"
+        },
+        {
+            "I062/105": {
+                "lat": 55.144720673561096,
+                "lon": 13.196189403533936
+            },
+            "I062/136": {
+                "measured_flight_level": 205.5
+            },
+            "I062/185": {
+                "vx": 82.75,
+                "vy": -180.0
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2512.5
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2593.75
+                },
+                "subitem26": {
+                    "ias": 306
+                },
+                "subitem27": {
+                    "mach": 0.672
+                },
+                "subitem3": {
+                    "mag_hdg": 149.94140625
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:42:12.695312"
+        },
+        {
+            "I062/105": {
+                "lat": 55.13644337654114,
+                "lon": 13.202894926071167
+            },
+            "I062/136": {
+                "measured_flight_level": 207.0
+            },
+            "I062/185": {
+                "vx": 83.25,
+                "vy": -181.25
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2512.5
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2750.0
+                },
+                "subitem26": {
+                    "ias": 307
+                },
+                "subitem27": {
+                    "mach": 0.672
+                },
+                "subitem3": {
+                    "mag_hdg": 149.94140625
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:42:17.695312"
+        },
+        {
+            "I062/105": {
+                "lat": 55.128251910209656,
+                "lon": 13.20957362651825
+            },
+            "I062/136": {
+                "measured_flight_level": 209.0
+            },
+            "I062/185": {
+                "vx": 83.75,
+                "vy": -181.25
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2475.0
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2625.0
+                },
+                "subitem26": {
+                    "ias": 306
+                },
+                "subitem27": {
+                    "mach": 0.68
+                },
+                "subitem3": {
+                    "mag_hdg": 149.94140625
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:42:22.695312"
+        },
+        {
+            "I062/105": {
+                "lat": 55.11996388435364,
+                "lon": 13.216193318367004
+            },
+            "I062/136": {
+                "measured_flight_level": 212.0
+            },
+            "I062/185": {
+                "vx": 84.0,
+                "vy": -182.25
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2506.25
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2525.0
+                },
+                "subitem26": {
+                    "ias": 306
+                },
+                "subitem27": {
+                    "mach": 0.68
+                },
+                "subitem3": {
+                    "mag_hdg": 150.1171875
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:42:27.695312"
+        },
+        {
+            "I062/105": {
+                "lat": 55.11172413825989,
+                "lon": 13.22253406047821
+            },
+            "I062/136": {
+                "measured_flight_level": 213.5
+            },
+            "I062/185": {
+                "vx": 83.25,
+                "vy": -182.5
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2462.5
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2525.0
+                },
+                "subitem26": {
+                    "ias": 306
+                },
+                "subitem27": {
+                    "mach": 0.68
+                },
+                "subitem3": {
+                    "mag_hdg": 150.1171875
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:42:32.695312"
+        },
+        {
+            "I062/105": {
+                "lat": 55.10347366333008,
+                "lon": 13.229164481163025
+            },
+            "I062/136": {
+                "measured_flight_level": 215.25
+            },
+            "I062/185": {
+                "vx": 83.5,
+                "vy": -183.0
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2443.75
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2525.0
+                },
+                "subitem26": {
+                    "ias": 306
+                },
+                "subitem27": {
+                    "mach": 0.688
+                },
+                "subitem3": {
+                    "mag_hdg": 149.94140625
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:42:37.695312"
+        },
+        {
+            "I062/105": {
+                "lat": 55.09518027305603,
+                "lon": 13.235709071159363
+            },
+            "I062/136": {
+                "measured_flight_level": 216.75
+            },
+            "I062/185": {
+                "vx": 83.5,
+                "vy": -183.5
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2437.5
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2462.5
+                },
+                "subitem26": {
+                    "ias": 305
+                },
+                "subitem27": {
+                    "mach": 0.688
+                },
+                "subitem3": {
+                    "mag_hdg": 150.29296875
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:42:42.695312"
+        },
+        {
+            "I062/105": {
+                "lat": 55.08687078952789,
+                "lon": 13.24202835559845
+            },
+            "I062/136": {
+                "measured_flight_level": 219.0
+            },
+            "I062/185": {
+                "vx": 83.0,
+                "vy": -184.0
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2406.25
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2368.75
+                },
+                "subitem26": {
+                    "ias": 305
+                },
+                "subitem27": {
+                    "mach": 0.688
+                },
+                "subitem3": {
+                    "mag_hdg": 152.578125
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:42:47.695312"
+        },
+        {
+            "I062/105": {
+                "lat": 55.07814288139343,
+                "lon": 13.24701189994812
+            },
+            "I062/136": {
+                "measured_flight_level": 221.0
+            },
+            "I062/185": {
+                "vx": 72.5,
+                "vy": -189.25
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2325.0
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2275.0
+                },
+                "subitem26": {
+                    "ias": 305
+                },
+                "subitem27": {
+                    "mach": 0.688
+                },
+                "subitem3": {
+                    "mag_hdg": 159.43359375
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:42:52.695312"
+        },
+        {
+            "I062/105": {
+                "lat": 55.068084597587585,
+                "lon": 13.249093294143677
+            },
+            "I062/136": {
+                "measured_flight_level": 223.0
+            },
+            "I062/185": {
+                "vx": 36.5,
+                "vy": -204.25
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 1,
+                "trans": 1,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2237.5
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2562.5
+                },
+                "subitem26": {
+                    "ias": 304
+                },
+                "subitem27": {
+                    "mach": 0.688
+                },
+                "subitem3": {
+                    "mag_hdg": 160.3125
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:42:57.898437"
+        },
+        {
+            "I062/105": {
+                "lat": 55.05901873111725,
+                "lon": 13.252542614936829
+            },
+            "I062/136": {
+                "measured_flight_level": 225.0
+            },
+            "I062/185": {
+                "vx": 34.0,
+                "vy": -204.25
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 1,
+                "trans": 1,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2237.5
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2400.0
+                },
+                "subitem26": {
+                    "ias": 305
+                },
+                "subitem27": {
+                    "mach": 0.696
+                },
+                "subitem3": {
+                    "mag_hdg": 160.48828125
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:43:02.898437"
+        },
+        {
+            "I062/105": {
+                "lat": 55.05045175552368,
+                "lon": 13.256796598434448
+            },
+            "I062/136": {
+                "measured_flight_level": 226.0
+            },
+            "I062/185": {
+                "vx": 42.25,
+                "vy": -202.0
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 1,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2206.25
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2050.0
+                },
+                "subitem26": {
+                    "ias": 305
+                },
+                "subitem27": {
+                    "mach": 0.696
+                },
+                "subitem3": {
+                    "mag_hdg": 160.3125
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:43:07.695312"
+        },
+        {
+            "I062/105": {
+                "lat": 55.04128932952881,
+                "lon": 13.260776996612549
+            },
+            "I062/136": {
+                "measured_flight_level": 228.25
+            },
+            "I062/185": {
+                "vx": 44.75,
+                "vy": -202.75
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 1,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2156.25
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2493.75
+                },
+                "subitem26": {
+                    "ias": 307
+                },
+                "subitem27": {
+                    "mach": 0.704
+                },
+                "subitem3": {
+                    "mag_hdg": 159.9609375
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:43:12.695312"
+        },
+        {
+            "I062/105": {
+                "lat": 55.03220736980438,
+                "lon": 13.265084624290466
+            },
+            "I062/136": {
+                "measured_flight_level": 229.75
+            },
+            "I062/185": {
+                "vx": 48.25,
+                "vy": -202.75
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2175.0
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2562.5
+                },
+                "subitem26": {
+                    "ias": 308
+                },
+                "subitem27": {
+                    "mach": 0.712
+                },
+                "subitem3": {
+                    "mag_hdg": 159.9609375
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:43:17.695312"
+        },
+        {
+            "I062/105": {
+                "lat": 55.023130774497986,
+                "lon": 13.269129395484924
+            },
+            "I062/136": {
+                "measured_flight_level": 232.0
+            },
+            "I062/185": {
+                "vx": 49.25,
+                "vy": -202.75
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2237.5
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2562.5
+                },
+                "subitem26": {
+                    "ias": 309
+                },
+                "subitem27": {
+                    "mach": 0.712
+                },
+                "subitem3": {
+                    "mag_hdg": 160.13671875
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:43:22.695312"
+        },
+        {
+            "I062/105": {
+                "lat": 55.01407027244568,
+                "lon": 13.273431658744812
+            },
+            "I062/136": {
+                "measured_flight_level": 234.0
+            },
+            "I062/185": {
+                "vx": 51.5,
+                "vy": -202.75
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2293.75
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2431.25
+                },
+                "subitem26": {
+                    "ias": 309
+                },
+                "subitem27": {
+                    "mach": 0.712
+                },
+                "subitem3": {
+                    "mag_hdg": 160.13671875
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:43:27.695312"
+        },
+        {
+            "I062/105": {
+                "lat": 55.0050687789917,
+                "lon": 13.277176022529602
+            },
+            "I062/136": {
+                "measured_flight_level": 236.0
+            },
+            "I062/185": {
+                "vx": 50.25,
+                "vy": -202.0
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2300.0
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2493.75
+                },
+                "subitem26": {
+                    "ias": 309
+                },
+                "subitem27": {
+                    "mach": 0.72
+                },
+                "subitem3": {
+                    "mag_hdg": 159.78515625
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:43:32.695312"
+        },
+        {
+            "I062/105": {
+                "lat": 54.99597609043121,
+                "lon": 13.281290531158447
+            },
+            "I062/136": {
+                "measured_flight_level": 237.75
+            },
+            "I062/185": {
+                "vx": 51.0,
+                "vy": -202.25
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2337.5
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2593.75
+                },
+                "subitem26": {
+                    "ias": 309
+                },
+                "subitem27": {
+                    "mach": 0.72
+                },
+                "subitem3": {
+                    "mag_hdg": 159.9609375
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:43:37.695312"
+        },
+        {
+            "I062/105": {
+                "lat": 54.986920952796936,
+                "lon": 13.28545331954956
+            },
+            "I062/136": {
+                "measured_flight_level": 240.0
+            },
+            "I062/185": {
+                "vx": 51.75,
+                "vy": -202.0
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2362.5
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2462.5
+                },
+                "subitem26": {
+                    "ias": 309
+                },
+                "subitem27": {
+                    "mach": 0.728
+                },
+                "subitem3": {
+                    "mag_hdg": 160.3125
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:43:42.695312"
+        },
+        {
+            "I062/105": {
+                "lat": 54.97784972190857,
+                "lon": 13.289541006088257
+            },
+            "I062/136": {
+                "measured_flight_level": 242.5
+            },
+            "I062/185": {
+                "vx": 51.75,
+                "vy": -202.0
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2456.25
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2400.0
+                },
+                "subitem26": {
+                    "ias": 307
+                },
+                "subitem27": {
+                    "mach": 0.72
+                },
+                "subitem3": {
+                    "mag_hdg": 160.3125
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:43:47.695312"
+        },
+        {
+            "I062/105": {
+                "lat": 54.96876239776611,
+                "lon": 13.293800354003906
+            },
+            "I062/136": {
+                "measured_flight_level": 244.0
+            },
+            "I062/185": {
+                "vx": 52.25,
+                "vy": -202.0
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2425.0
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2081.25
+                },
+                "subitem26": {
+                    "ias": 306
+                },
+                "subitem27": {
+                    "mach": 0.72
+                },
+                "subitem3": {
+                    "mag_hdg": 160.3125
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:43:52.695312"
+        },
+        {
+            "I062/105": {
+                "lat": 54.95962679386139,
+                "lon": 13.297727108001709
+            },
+            "I062/136": {
+                "measured_flight_level": 246.0
+            },
+            "I062/185": {
+                "vx": 51.75,
+                "vy": -202.5
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2350.0
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2112.5
+                },
+                "subitem26": {
+                    "ias": 305
+                },
+                "subitem27": {
+                    "mach": 0.72
+                },
+                "subitem3": {
+                    "mag_hdg": 160.3125
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:43:57.695312"
+        },
+        {
+            "I062/105": {
+                "lat": 54.95056629180908,
+                "lon": 13.301798701286316
+            },
+            "I062/136": {
+                "measured_flight_level": 248.0
+            },
+            "I062/185": {
+                "vx": 52.0,
+                "vy": -202.25
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2293.75
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2050.0
+                },
+                "subitem26": {
+                    "ias": 304
+                },
+                "subitem27": {
+                    "mach": 0.72
+                },
+                "subitem3": {
+                    "mag_hdg": 160.3125
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:44:02.695312"
+        },
+        {
+            "I062/105": {
+                "lat": 54.941521883010864,
+                "lon": 13.305913209915161
+            },
+            "I062/136": {
+                "measured_flight_level": 249.25
+            },
+            "I062/185": {
+                "vx": 52.0,
+                "vy": -202.25
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2156.25
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 1762.5
+                },
+                "subitem26": {
+                    "ias": 302
+                },
+                "subitem27": {
+                    "mach": 0.72
+                },
+                "subitem3": {
+                    "mag_hdg": 159.9609375
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:44:07.695312"
+        },
+        {
+            "I062/105": {
+                "lat": 54.93242919445038,
+                "lon": 13.310156464576721
+            },
+            "I062/136": {
+                "measured_flight_level": 250.5
+            },
+            "I062/185": {
+                "vx": 52.5,
+                "vy": -202.25
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 2050.0
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 1825.0
+                },
+                "subitem26": {
+                    "ias": 303
+                },
+                "subitem27": {
+                    "mach": 0.728
+                },
+                "subitem3": {
+                    "mag_hdg": 160.13671875
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:44:12.695312"
+        },
+        {
+            "I062/105": {
+                "lat": 54.92331504821777,
+                "lon": 13.31443190574646
+            },
+            "I062/136": {
+                "measured_flight_level": 252.0
+            },
+            "I062/185": {
+                "vx": 53.0,
+                "vy": -202.25
+            },
+            "I062/200": {
+                "adf": false,
+                "long": 0,
+                "trans": 0,
+                "vert": 1
+            },
+            "I062/220": {
+                "rocd": 1893.75
+            },
+            "I062/380": {
+                "subitem13": {
+                    "baro_vert_rate": 2018.75
+                },
+                "subitem26": {
+                    "ias": 304
+                },
+                "subitem27": {
+                    "mach": 0.728
+                },
+                "subitem3": {
+                    "mag_hdg": 160.13671875
+                },
+                "subitem6": {
+                    "altitude": 33000,
+                    "sas": false,
+                    "source": 0
+                },
+                "subitem7": {
+                    "ah": false,
+                    "altitude": 33000,
+                    "am": false,
+                    "mv": false
+                }
+            },
+            "time_of_track": "2016-10-20T11:44:17.695312"
+        }
+    ],
+    "predicted_trajectory": [
+        {
+            "route": [
+                {
+                    "afl_unit": "F",
+                    "afl_value": 0.25,
+                    "eto": "2016-10-20T11:33:24",
+                    "fix_kind": "AIRPORT",
+                    "fix_name": "EKCH",
+                    "is_ato": true,
+                    "lat": 55.60305383891378,
+                    "lon": 12.633054211778296,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 2.0,
+                    "eto": "2016-10-20T11:33:59",
+                    "fix_kind": "RP",
+                    "fix_name": "Z9034",
+                    "is_ato": true,
+                    "lat": 55.61832948785555,
+                    "lon": 12.656652833484982,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 4.0,
+                    "eto": "2016-10-20T11:34:20",
+                    "fix_kind": "RP",
+                    "fix_name": "CH360",
+                    "is_ato": true,
+                    "lat": 55.62805255339319,
+                    "lon": 12.671679497557133,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 14.0,
+                    "eto": "2016-10-20T11:35:11",
+                    "fix_kind": "RP",
+                    "fix_name": "Z9048",
+                    "is_ato": true,
+                    "lat": 55.65028107736258,
+                    "lon": 12.706377354480397,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 53.0,
+                    "eto": "2016-10-20T11:36:52",
+                    "fix_kind": "RP",
+                    "fix_name": "Z9049",
+                    "is_ato": true,
+                    "lat": 55.59917340131793,
+                    "lon": 12.78887758715038,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 75.0,
+                    "eto": "2016-10-20T11:37:47",
+                    "fix_kind": "GP",
+                    "fix_name": "5533N01252E",
+                    "is_ato": true,
+                    "lat": 55.54324260571046,
+                    "lon": 12.871613554637138,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 87.0,
+                    "eto": "2016-10-20T11:38:12",
+                    "fix_kind": "GP",
+                    "fix_name": "5531N01254E",
+                    "is_ato": true,
+                    "lat": 55.51666642744383,
+                    "lon": 12.90001290488591,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 141.5,
+                    "eto": "2016-10-20T11:39:54",
+                    "fix_kind": "ENT_POINT",
+                    "fix_name": "ZZZL",
+                    "is_ato": true,
+                    "lat": 55.361729605478565,
+                    "lon": 13.02729600521592,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 149.0,
+                    "eto": "2016-10-20T11:40:07",
+                    "fix_kind": "APR",
+                    "fix_name": "5521N01303E",
+                    "is_ato": true,
+                    "lat": 55.342520903358526,
+                    "lon": 13.042980339267725,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 215.25,
+                    "eto": "2016-10-20T11:42:30",
+                    "fix_kind": "DUMMY_2",
+                    "fix_name": "5507N01314E",
+                    "is_ato": false,
+                    "lat": 55.11679705359745,
+                    "lon": 13.225664421824932,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 240.0,
+                    "eto": "2016-10-20T11:43:28",
+                    "fix_kind": "EOC_POINT",
+                    "fix_name": "5501N01318E",
+                    "is_ato": false,
+                    "lat": 55.02044216657049,
+                    "lon": 13.303141446530802,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 240.0,
+                    "eto": "2016-10-20T11:44:03",
+                    "fix_kind": "EOC_POINT",
+                    "fix_name": "5457N01321E",
+                    "is_ato": false,
+                    "lat": 54.95731124760893,
+                    "lon": 13.353597309988212,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 249.75,
+                    "eto": "2016-10-20T11:44:27",
+                    "fix_kind": "EXT_POINT",
+                    "fix_name": "5455N01323E",
+                    "is_ato": false,
+                    "lat": 54.91696788139685,
+                    "lon": 13.385864856638335,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 250.0,
+                    "eto": "2016-10-20T11:44:27",
+                    "fix_kind": "RP",
+                    "fix_name": "SALLO",
+                    "is_ato": false,
+                    "lat": 54.916672042624995,
+                    "lon": 13.386108843732739,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 250.0,
+                    "eto": "2016-10-20T11:45:04",
+                    "fix_kind": "EOC_POINT",
+                    "fix_name": "5450N01324E",
+                    "is_ato": false,
+                    "lat": 54.841405108614424,
+                    "lon": 13.40652575922236,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 315.5,
+                    "eto": "2016-10-20T11:47:51",
+                    "fix_kind": "RP",
+                    "fix_name": "ARGAD",
+                    "is_ato": false,
+                    "lat": 54.50610692474,
+                    "lon": 13.496099283293832,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 340.25,
+                    "eto": "2016-10-20T11:48:52",
+                    "fix_kind": "DUMMY_2",
+                    "fix_name": "5423N01332E",
+                    "is_ato": false,
+                    "lat": 54.37980180431065,
+                    "lon": 13.52804970011174,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T11:49:19",
+                    "fix_kind": "TOC",
+                    "fix_name": "5419N01333E",
+                    "is_ato": false,
+                    "lat": 54.32262298234553,
+                    "lon": 13.542491111093591,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T11:49:22",
+                    "fix_kind": "RP",
+                    "fix_name": "KOGIM",
+                    "is_ato": false,
+                    "lat": 54.3169376054079,
+                    "lon": 13.543880491129144,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T11:50:25",
+                    "fix_kind": "RP",
+                    "fix_name": "LABES",
+                    "is_ato": false,
+                    "lat": 54.1930650605143,
+                    "lon": 13.57639880582712,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T11:52:44",
+                    "fix_kind": "RP",
+                    "fix_name": "MASOR",
+                    "is_ato": false,
+                    "lat": 53.92416986153822,
+                    "lon": 13.645829201910933,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T11:54:08",
+                    "fix_kind": "RP",
+                    "fix_name": "UDAXI",
+                    "is_ato": false,
+                    "lat": 53.76250179665835,
+                    "lon": 13.70416630349126,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T11:54:47",
+                    "fix_kind": "RP",
+                    "fix_name": "RODEP",
+                    "is_ato": false,
+                    "lat": 53.68610265543716,
+                    "lon": 13.731372378706837,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T11:59:11",
+                    "fix_kind": "RP",
+                    "fix_name": "RAKIT",
+                    "is_ato": false,
+                    "lat": 53.178602759438945,
+                    "lon": 13.911097781540612,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:01:28",
+                    "fix_kind": "RP",
+                    "fix_name": "RENKI",
+                    "is_ato": false,
+                    "lat": 52.91471761035607,
+                    "lon": 13.961649706734287,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:04:10",
+                    "fix_kind": "RP",
+                    "fix_name": "GERGA",
+                    "is_ato": false,
+                    "lat": 52.602485003840904,
+                    "lon": 14.028062034029569,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:05:55",
+                    "fix_kind": "RP",
+                    "fix_name": "TUVAK",
+                    "is_ato": false,
+                    "lat": 52.3997223062368,
+                    "lon": 14.070823997052512,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:06:38",
+                    "fix_kind": "RP",
+                    "fix_name": "GORIG",
+                    "is_ato": false,
+                    "lat": 52.316664392480845,
+                    "lon": 14.088056607833467,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:07:15",
+                    "fix_kind": "RP",
+                    "fix_name": "BESKO",
+                    "is_ato": false,
+                    "lat": 52.24554897961055,
+                    "lon": 14.103042464941376,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:10:15",
+                    "fix_kind": "RP",
+                    "fix_name": "LUROS",
+                    "is_ato": false,
+                    "lat": 51.898601091413255,
+                    "lon": 14.17443136076915,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:11:04",
+                    "fix_kind": "RP",
+                    "fix_name": "EBASA",
+                    "is_ato": false,
+                    "lat": 51.80442901655745,
+                    "lon": 14.193618112685856,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:13:35",
+                    "fix_kind": "RP",
+                    "fix_name": "KOBUS",
+                    "is_ato": false,
+                    "lat": 51.51332567511906,
+                    "lon": 14.252499635202208,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:16:59",
+                    "fix_kind": "RP",
+                    "fix_name": "BUSIR",
+                    "is_ato": false,
+                    "lat": 51.120825896227466,
+                    "lon": 14.330827255942848,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:18:39",
+                    "fix_kind": "RP",
+                    "fix_name": "HDO",
+                    "is_ato": false,
+                    "lat": 50.92804720167554,
+                    "lon": 14.368896597498976,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:20:06",
+                    "fix_kind": "RP",
+                    "fix_name": "RAVKU",
+                    "is_ato": false,
+                    "lat": 50.76693870160576,
+                    "lon": 14.428887419710668,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:20:58",
+                    "fix_kind": "RP",
+                    "fix_name": "ODLIV",
+                    "is_ato": false,
+                    "lat": 50.67027009319552,
+                    "lon": 14.46444435986747,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:21:44",
+                    "fix_kind": "RP",
+                    "fix_name": "GOLOP",
+                    "is_ato": false,
+                    "lat": 50.58581908058789,
+                    "lon": 14.495819719340906,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                }
+            ],
+            "time_stamp": "2016-10-20T11:40:08.873000"
+        },
+        {
+            "route": [
+                {
+                    "afl_unit": "F",
+                    "afl_value": 0.25,
+                    "eto": "2016-10-20T11:33:24",
+                    "fix_kind": "AIRPORT",
+                    "fix_name": "EKCH",
+                    "is_ato": true,
+                    "lat": 55.60305383891378,
+                    "lon": 12.633054211778296,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 2.0,
+                    "eto": "2016-10-20T11:33:59",
+                    "fix_kind": "RP",
+                    "fix_name": "Z9034",
+                    "is_ato": true,
+                    "lat": 55.61832948785555,
+                    "lon": 12.656652833484982,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 4.0,
+                    "eto": "2016-10-20T11:34:20",
+                    "fix_kind": "RP",
+                    "fix_name": "CH360",
+                    "is_ato": true,
+                    "lat": 55.62805255339319,
+                    "lon": 12.671679497557133,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 14.0,
+                    "eto": "2016-10-20T11:35:11",
+                    "fix_kind": "RP",
+                    "fix_name": "Z9048",
+                    "is_ato": true,
+                    "lat": 55.65028107736258,
+                    "lon": 12.706377354480397,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 53.0,
+                    "eto": "2016-10-20T11:36:52",
+                    "fix_kind": "RP",
+                    "fix_name": "Z9049",
+                    "is_ato": true,
+                    "lat": 55.59917340131793,
+                    "lon": 12.78887758715038,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 75.0,
+                    "eto": "2016-10-20T11:37:47",
+                    "fix_kind": "GP",
+                    "fix_name": "5533N01252E",
+                    "is_ato": true,
+                    "lat": 55.54324260571046,
+                    "lon": 12.871613554637138,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 87.0,
+                    "eto": "2016-10-20T11:38:12",
+                    "fix_kind": "GP",
+                    "fix_name": "5531N01254E",
+                    "is_ato": true,
+                    "lat": 55.51666642744383,
+                    "lon": 12.90001290488591,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 141.5,
+                    "eto": "2016-10-20T11:39:54",
+                    "fix_kind": "ENT_POINT",
+                    "fix_name": "ZZZL",
+                    "is_ato": true,
+                    "lat": 55.361729605478565,
+                    "lon": 13.02729600521592,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 149.0,
+                    "eto": "2016-10-20T11:40:07",
+                    "fix_kind": "GP",
+                    "fix_name": "5521N01303E",
+                    "is_ato": true,
+                    "lat": 55.342520903358526,
+                    "lon": 13.042980339267725,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 165.25,
+                    "eto": "2016-10-20T11:40:43",
+                    "fix_kind": "GP",
+                    "fix_name": "5517N01304E",
+                    "is_ato": false,
+                    "lat": 55.28333869827604,
+                    "lon": 13.066674682576052,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 215.25,
+                    "eto": "2016-10-20T11:42:29",
+                    "fix_kind": "DUMMY_2",
+                    "fix_name": "5506N01308E",
+                    "is_ato": false,
+                    "lat": 55.09859992589788,
+                    "lon": 13.12753378200778,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 250.0,
+                    "eto": "2016-10-20T11:43:49",
+                    "fix_kind": "EOC_POINT",
+                    "fix_name": "5457N01311E",
+                    "is_ato": false,
+                    "lat": 54.95065487647821,
+                    "lon": 13.17610165533851,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 250.0,
+                    "eto": "2016-10-20T11:44:06",
+                    "fix_kind": "EXT_POINT",
+                    "fix_name": "5455N01311E",
+                    "is_ato": false,
+                    "lat": 54.91547686605168,
+                    "lon": 13.187534564298101,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 250.0,
+                    "eto": "2016-10-20T11:44:44",
+                    "fix_kind": "EOC_POINT",
+                    "fix_name": "5450N01313E",
+                    "is_ato": false,
+                    "lat": 54.84028615338855,
+                    "lon": 13.211897534284352,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 340.25,
+                    "eto": "2016-10-20T11:48:32",
+                    "fix_kind": "DUMMY_2",
+                    "fix_name": "5423N01322E",
+                    "is_ato": false,
+                    "lat": 54.38122101629311,
+                    "lon": 13.35904465234461,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T11:48:59",
+                    "fix_kind": "TOC",
+                    "fix_name": "5419N01323E",
+                    "is_ato": false,
+                    "lat": 54.32437852607154,
+                    "lon": 13.377011890759956,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:18:27",
+                    "fix_kind": "RP",
+                    "fix_name": "HDO",
+                    "is_ato": false,
+                    "lat": 50.92804720167554,
+                    "lon": 14.368896597498976,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:19:54",
+                    "fix_kind": "RP",
+                    "fix_name": "RAVKU",
+                    "is_ato": false,
+                    "lat": 50.76693870160576,
+                    "lon": 14.428887419710668,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:20:46",
+                    "fix_kind": "RP",
+                    "fix_name": "ODLIV",
+                    "is_ato": false,
+                    "lat": 50.67027009319552,
+                    "lon": 14.46444435986747,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:21:32",
+                    "fix_kind": "RP",
+                    "fix_name": "GOLOP",
+                    "is_ato": false,
+                    "lat": 50.58581908058789,
+                    "lon": 14.495819719340906,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                }
+            ],
+            "time_stamp": "2016-10-20T11:40:38.729000"
+        },
+        {
+            "route": [
+                {
+                    "afl_unit": "F",
+                    "afl_value": 0.25,
+                    "eto": "2016-10-20T11:33:24",
+                    "fix_kind": "AIRPORT",
+                    "fix_name": "EKCH",
+                    "is_ato": true,
+                    "lat": 55.60305383891378,
+                    "lon": 12.633054211778296,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 2.0,
+                    "eto": "2016-10-20T11:33:59",
+                    "fix_kind": "RP",
+                    "fix_name": "Z9034",
+                    "is_ato": true,
+                    "lat": 55.61832948785555,
+                    "lon": 12.656652833484982,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 4.0,
+                    "eto": "2016-10-20T11:34:20",
+                    "fix_kind": "RP",
+                    "fix_name": "CH360",
+                    "is_ato": true,
+                    "lat": 55.62805255339319,
+                    "lon": 12.671679497557133,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 14.0,
+                    "eto": "2016-10-20T11:35:11",
+                    "fix_kind": "RP",
+                    "fix_name": "Z9048",
+                    "is_ato": true,
+                    "lat": 55.65028107736258,
+                    "lon": 12.706377354480397,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 53.0,
+                    "eto": "2016-10-20T11:36:52",
+                    "fix_kind": "RP",
+                    "fix_name": "Z9049",
+                    "is_ato": true,
+                    "lat": 55.59917340131793,
+                    "lon": 12.78887758715038,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 75.0,
+                    "eto": "2016-10-20T11:37:47",
+                    "fix_kind": "GP",
+                    "fix_name": "5533N01252E",
+                    "is_ato": true,
+                    "lat": 55.54324260571046,
+                    "lon": 12.871613554637138,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 87.0,
+                    "eto": "2016-10-20T11:38:12",
+                    "fix_kind": "GP",
+                    "fix_name": "5531N01254E",
+                    "is_ato": true,
+                    "lat": 55.51666642744383,
+                    "lon": 12.90001290488591,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 141.5,
+                    "eto": "2016-10-20T11:39:54",
+                    "fix_kind": "ENT_POINT",
+                    "fix_name": "ZZZL",
+                    "is_ato": true,
+                    "lat": 55.361729605478565,
+                    "lon": 13.02729600521592,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 149.0,
+                    "eto": "2016-10-20T11:40:07",
+                    "fix_kind": "GP",
+                    "fix_name": "5521N01303E",
+                    "is_ato": true,
+                    "lat": 55.342520903358526,
+                    "lon": 13.042980339267725,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 168.0,
+                    "eto": "2016-10-20T11:40:47",
+                    "fix_kind": "GP",
+                    "fix_name": "5517N01304E",
+                    "is_ato": true,
+                    "lat": 55.28333869827604,
+                    "lon": 13.066674682576052,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 250.0,
+                    "eto": "2016-10-20T11:43:52",
+                    "fix_kind": "EOC_POINT",
+                    "fix_name": "5457N01311E",
+                    "is_ato": false,
+                    "lat": 54.951561010904804,
+                    "lon": 13.175565699932571,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 250.0,
+                    "eto": "2016-10-20T11:44:10",
+                    "fix_kind": "EXT_POINT",
+                    "fix_name": "5455N01311E",
+                    "is_ato": false,
+                    "lat": 54.91547311954853,
+                    "lon": 13.187303745614521,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 250.0,
+                    "eto": "2016-10-20T11:44:47",
+                    "fix_kind": "EOC_POINT",
+                    "fix_name": "5450N01313E",
+                    "is_ato": false,
+                    "lat": 54.8402658347448,
+                    "lon": 13.211667949546204,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 340.25,
+                    "eto": "2016-10-20T11:48:35",
+                    "fix_kind": "DUMMY_2",
+                    "fix_name": "5423N01322E",
+                    "is_ato": false,
+                    "lat": 54.38120099116894,
+                    "lon": 13.358817601577885,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T11:49:03",
+                    "fix_kind": "TOC",
+                    "fix_name": "5419N01323E",
+                    "is_ato": false,
+                    "lat": 54.3243398107652,
+                    "lon": 13.37664370664897,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:18:31",
+                    "fix_kind": "RP",
+                    "fix_name": "HDO",
+                    "is_ato": false,
+                    "lat": 50.92804720167554,
+                    "lon": 14.368896597498976,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:19:57",
+                    "fix_kind": "RP",
+                    "fix_name": "RAVKU",
+                    "is_ato": false,
+                    "lat": 50.76693870160576,
+                    "lon": 14.428887419710668,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:20:50",
+                    "fix_kind": "RP",
+                    "fix_name": "ODLIV",
+                    "is_ato": false,
+                    "lat": 50.67027009319552,
+                    "lon": 14.46444435986747,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:21:35",
+                    "fix_kind": "RP",
+                    "fix_name": "GOLOP",
+                    "is_ato": false,
+                    "lat": 50.58581908058789,
+                    "lon": 14.495819719340906,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                }
+            ],
+            "time_stamp": "2016-10-20T11:40:48.894000"
+        },
+        {
+            "route": [
+                {
+                    "afl_unit": "F",
+                    "afl_value": 0.25,
+                    "eto": "2016-10-20T11:33:24",
+                    "fix_kind": "AIRPORT",
+                    "fix_name": "EKCH",
+                    "is_ato": true,
+                    "lat": 55.60305383891378,
+                    "lon": 12.633054211778296,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 2.0,
+                    "eto": "2016-10-20T11:33:59",
+                    "fix_kind": "RP",
+                    "fix_name": "Z9034",
+                    "is_ato": true,
+                    "lat": 55.61832948785555,
+                    "lon": 12.656652833484982,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 4.0,
+                    "eto": "2016-10-20T11:34:20",
+                    "fix_kind": "RP",
+                    "fix_name": "CH360",
+                    "is_ato": true,
+                    "lat": 55.62805255339319,
+                    "lon": 12.671679497557133,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 14.0,
+                    "eto": "2016-10-20T11:35:11",
+                    "fix_kind": "RP",
+                    "fix_name": "Z9048",
+                    "is_ato": true,
+                    "lat": 55.65028107736258,
+                    "lon": 12.706377354480397,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 53.0,
+                    "eto": "2016-10-20T11:36:52",
+                    "fix_kind": "RP",
+                    "fix_name": "Z9049",
+                    "is_ato": true,
+                    "lat": 55.59917340131793,
+                    "lon": 12.78887758715038,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 75.0,
+                    "eto": "2016-10-20T11:37:47",
+                    "fix_kind": "GP",
+                    "fix_name": "5533N01252E",
+                    "is_ato": true,
+                    "lat": 55.54324260571046,
+                    "lon": 12.871613554637138,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 87.0,
+                    "eto": "2016-10-20T11:38:12",
+                    "fix_kind": "GP",
+                    "fix_name": "5531N01254E",
+                    "is_ato": true,
+                    "lat": 55.51666642744383,
+                    "lon": 12.90001290488591,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 141.5,
+                    "eto": "2016-10-20T11:39:54",
+                    "fix_kind": "ENT_POINT",
+                    "fix_name": "ZZZL",
+                    "is_ato": true,
+                    "lat": 55.361729605478565,
+                    "lon": 13.02729600521592,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 149.0,
+                    "eto": "2016-10-20T11:40:07",
+                    "fix_kind": "GP",
+                    "fix_name": "5521N01303E",
+                    "is_ato": true,
+                    "lat": 55.342520903358526,
+                    "lon": 13.042980339267725,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 168.0,
+                    "eto": "2016-10-20T11:40:47",
+                    "fix_kind": "GP",
+                    "fix_name": "5517N01304E",
+                    "is_ato": true,
+                    "lat": 55.28333869827604,
+                    "lon": 13.066674682576052,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 250.0,
+                    "eto": "2016-10-20T11:43:52",
+                    "fix_kind": "EOC_POINT",
+                    "fix_name": "5457N01311E",
+                    "is_ato": false,
+                    "lat": 54.951561010904804,
+                    "lon": 13.175565699932571,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 250.0,
+                    "eto": "2016-10-20T11:44:10",
+                    "fix_kind": "EXT_POINT",
+                    "fix_name": "5455N01311E",
+                    "is_ato": false,
+                    "lat": 54.91547311954853,
+                    "lon": 13.187303745614521,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 250.0,
+                    "eto": "2016-10-20T11:44:47",
+                    "fix_kind": "EOC_POINT",
+                    "fix_name": "5450N01313E",
+                    "is_ato": false,
+                    "lat": 54.8402658347448,
+                    "lon": 13.211667949546204,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 340.25,
+                    "eto": "2016-10-20T11:48:35",
+                    "fix_kind": "DUMMY_2",
+                    "fix_name": "5423N01322E",
+                    "is_ato": false,
+                    "lat": 54.38120099116894,
+                    "lon": 13.358817601577885,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T11:49:03",
+                    "fix_kind": "TOC",
+                    "fix_name": "5419N01323E",
+                    "is_ato": false,
+                    "lat": 54.3243398107652,
+                    "lon": 13.37664370664897,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:18:31",
+                    "fix_kind": "RP",
+                    "fix_name": "HDO",
+                    "is_ato": false,
+                    "lat": 50.92804720167554,
+                    "lon": 14.368896597498976,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:19:57",
+                    "fix_kind": "RP",
+                    "fix_name": "RAVKU",
+                    "is_ato": false,
+                    "lat": 50.76693870160576,
+                    "lon": 14.428887419710668,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:20:50",
+                    "fix_kind": "RP",
+                    "fix_name": "ODLIV",
+                    "is_ato": false,
+                    "lat": 50.67027009319552,
+                    "lon": 14.46444435986747,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:21:35",
+                    "fix_kind": "RP",
+                    "fix_name": "GOLOP",
+                    "is_ato": false,
+                    "lat": 50.58581908058789,
+                    "lon": 14.495819719340906,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                }
+            ],
+            "time_stamp": "2016-10-20T11:40:55.060000"
+        },
+        {
+            "route": [
+                {
+                    "afl_unit": "F",
+                    "afl_value": 0.25,
+                    "eto": "2016-10-20T11:33:24",
+                    "fix_kind": "AIRPORT",
+                    "fix_name": "EKCH",
+                    "is_ato": true,
+                    "lat": 55.60305383891378,
+                    "lon": 12.633054211778296,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 2.0,
+                    "eto": "2016-10-20T11:33:59",
+                    "fix_kind": "RP",
+                    "fix_name": "Z9034",
+                    "is_ato": true,
+                    "lat": 55.61832948785555,
+                    "lon": 12.656652833484982,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 4.0,
+                    "eto": "2016-10-20T11:34:20",
+                    "fix_kind": "RP",
+                    "fix_name": "CH360",
+                    "is_ato": true,
+                    "lat": 55.62805255339319,
+                    "lon": 12.671679497557133,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 14.0,
+                    "eto": "2016-10-20T11:35:11",
+                    "fix_kind": "RP",
+                    "fix_name": "Z9048",
+                    "is_ato": true,
+                    "lat": 55.65028107736258,
+                    "lon": 12.706377354480397,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 53.0,
+                    "eto": "2016-10-20T11:36:52",
+                    "fix_kind": "RP",
+                    "fix_name": "Z9049",
+                    "is_ato": true,
+                    "lat": 55.59917340131793,
+                    "lon": 12.78887758715038,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 75.0,
+                    "eto": "2016-10-20T11:37:47",
+                    "fix_kind": "GP",
+                    "fix_name": "5533N01252E",
+                    "is_ato": true,
+                    "lat": 55.54324260571046,
+                    "lon": 12.871613554637138,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 87.0,
+                    "eto": "2016-10-20T11:38:12",
+                    "fix_kind": "GP",
+                    "fix_name": "5531N01254E",
+                    "is_ato": true,
+                    "lat": 55.51666642744383,
+                    "lon": 12.90001290488591,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 141.5,
+                    "eto": "2016-10-20T11:39:54",
+                    "fix_kind": "ENT_POINT",
+                    "fix_name": "ZZZL",
+                    "is_ato": true,
+                    "lat": 55.361729605478565,
+                    "lon": 13.02729600521592,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 149.0,
+                    "eto": "2016-10-20T11:40:07",
+                    "fix_kind": "GP",
+                    "fix_name": "5521N01303E",
+                    "is_ato": true,
+                    "lat": 55.342520903358526,
+                    "lon": 13.042980339267725,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 168.0,
+                    "eto": "2016-10-20T11:40:47",
+                    "fix_kind": "GP",
+                    "fix_name": "5517N01304E",
+                    "is_ato": true,
+                    "lat": 55.28333869827604,
+                    "lon": 13.066674682576052,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 250.0,
+                    "eto": "2016-10-20T11:43:52",
+                    "fix_kind": "EOC_POINT",
+                    "fix_name": "5457N01311E",
+                    "is_ato": false,
+                    "lat": 54.951561010904804,
+                    "lon": 13.175565699932571,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 250.0,
+                    "eto": "2016-10-20T11:44:10",
+                    "fix_kind": "EXT_POINT",
+                    "fix_name": "5455N01311E",
+                    "is_ato": false,
+                    "lat": 54.91547311954853,
+                    "lon": 13.187303745614521,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 250.0,
+                    "eto": "2016-10-20T11:44:47",
+                    "fix_kind": "EOC_POINT",
+                    "fix_name": "5450N01313E",
+                    "is_ato": false,
+                    "lat": 54.8402658347448,
+                    "lon": 13.211667949546204,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 340.25,
+                    "eto": "2016-10-20T11:48:35",
+                    "fix_kind": "DUMMY_2",
+                    "fix_name": "5423N01322E",
+                    "is_ato": false,
+                    "lat": 54.38120099116894,
+                    "lon": 13.358817601577885,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T11:49:03",
+                    "fix_kind": "TOC",
+                    "fix_name": "5419N01323E",
+                    "is_ato": false,
+                    "lat": 54.3243398107652,
+                    "lon": 13.37664370664897,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:18:31",
+                    "fix_kind": "RP",
+                    "fix_name": "HDO",
+                    "is_ato": false,
+                    "lat": 50.92804720167554,
+                    "lon": 14.368896597498976,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:19:57",
+                    "fix_kind": "RP",
+                    "fix_name": "RAVKU",
+                    "is_ato": false,
+                    "lat": 50.76693870160576,
+                    "lon": 14.428887419710668,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:20:50",
+                    "fix_kind": "RP",
+                    "fix_name": "ODLIV",
+                    "is_ato": false,
+                    "lat": 50.67027009319552,
+                    "lon": 14.46444435986747,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:21:35",
+                    "fix_kind": "RP",
+                    "fix_name": "GOLOP",
+                    "is_ato": false,
+                    "lat": 50.58581908058789,
+                    "lon": 14.495819719340906,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                }
+            ],
+            "time_stamp": "2016-10-20T11:41:18.089000"
+        },
+        {
+            "route": [
+                {
+                    "afl_unit": "F",
+                    "afl_value": 0.25,
+                    "eto": "2016-10-20T11:33:24",
+                    "fix_kind": "AIRPORT",
+                    "fix_name": "EKCH",
+                    "is_ato": true,
+                    "lat": 55.60305383891378,
+                    "lon": 12.633054211778296,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 2.0,
+                    "eto": "2016-10-20T11:33:59",
+                    "fix_kind": "RP",
+                    "fix_name": "Z9034",
+                    "is_ato": true,
+                    "lat": 55.61832948785555,
+                    "lon": 12.656652833484982,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 4.0,
+                    "eto": "2016-10-20T11:34:20",
+                    "fix_kind": "RP",
+                    "fix_name": "CH360",
+                    "is_ato": true,
+                    "lat": 55.62805255339319,
+                    "lon": 12.671679497557133,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 14.0,
+                    "eto": "2016-10-20T11:35:11",
+                    "fix_kind": "RP",
+                    "fix_name": "Z9048",
+                    "is_ato": true,
+                    "lat": 55.65028107736258,
+                    "lon": 12.706377354480397,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 53.0,
+                    "eto": "2016-10-20T11:36:52",
+                    "fix_kind": "RP",
+                    "fix_name": "Z9049",
+                    "is_ato": true,
+                    "lat": 55.59917340131793,
+                    "lon": 12.78887758715038,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 75.0,
+                    "eto": "2016-10-20T11:37:47",
+                    "fix_kind": "GP",
+                    "fix_name": "5533N01252E",
+                    "is_ato": true,
+                    "lat": 55.54324260571046,
+                    "lon": 12.871613554637138,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 87.0,
+                    "eto": "2016-10-20T11:38:12",
+                    "fix_kind": "GP",
+                    "fix_name": "5531N01254E",
+                    "is_ato": true,
+                    "lat": 55.51666642744383,
+                    "lon": 12.90001290488591,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 141.5,
+                    "eto": "2016-10-20T11:39:54",
+                    "fix_kind": "ENT_POINT",
+                    "fix_name": "ZZZL",
+                    "is_ato": true,
+                    "lat": 55.361729605478565,
+                    "lon": 13.02729600521592,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 149.0,
+                    "eto": "2016-10-20T11:40:07",
+                    "fix_kind": "GP",
+                    "fix_name": "5521N01303E",
+                    "is_ato": true,
+                    "lat": 55.342520903358526,
+                    "lon": 13.042980339267725,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 168.0,
+                    "eto": "2016-10-20T11:40:47",
+                    "fix_kind": "GP",
+                    "fix_name": "5517N01304E",
+                    "is_ato": true,
+                    "lat": 55.28333869827604,
+                    "lon": 13.066674682576052,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 192.0,
+                    "eto": "2016-10-20T11:41:42",
+                    "fix_kind": "APR",
+                    "fix_name": "5511N01306E",
+                    "is_ato": true,
+                    "lat": 55.1871761356186,
+                    "lon": 13.098433972147024,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 250.0,
+                    "eto": "2016-10-20T11:43:54",
+                    "fix_kind": "EOC_POINT",
+                    "fix_name": "5457N01311E",
+                    "is_ato": false,
+                    "lat": 54.946799181896004,
+                    "lon": 13.177331860007389,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 250.0,
+                    "eto": "2016-10-20T11:44:10",
+                    "fix_kind": "EXT_POINT",
+                    "fix_name": "5455N01311E",
+                    "is_ato": false,
+                    "lat": 54.915476397763136,
+                    "lon": 13.187505711960005,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 250.0,
+                    "eto": "2016-10-20T11:44:47",
+                    "fix_kind": "EOC_POINT",
+                    "fix_name": "5450N01313E",
+                    "is_ato": false,
+                    "lat": 54.840269070440065,
+                    "lon": 13.211869536940428,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 340.25,
+                    "eto": "2016-10-20T11:48:35",
+                    "fix_kind": "DUMMY_2",
+                    "fix_name": "5423N01322E",
+                    "is_ato": false,
+                    "lat": 54.381187350696315,
+                    "lon": 13.359017638146176,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T11:49:03",
+                    "fix_kind": "TOC",
+                    "fix_name": "5419N01323E",
+                    "is_ato": false,
+                    "lat": 54.32436443303256,
+                    "lon": 13.377183207573701,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:18:30",
+                    "fix_kind": "RP",
+                    "fix_name": "HDO",
+                    "is_ato": false,
+                    "lat": 50.92804720167554,
+                    "lon": 14.368896597498976,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:19:57",
+                    "fix_kind": "RP",
+                    "fix_name": "RAVKU",
+                    "is_ato": false,
+                    "lat": 50.76693870160576,
+                    "lon": 14.428887419710668,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:20:49",
+                    "fix_kind": "RP",
+                    "fix_name": "ODLIV",
+                    "is_ato": false,
+                    "lat": 50.67027009319552,
+                    "lon": 14.46444435986747,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:21:35",
+                    "fix_kind": "RP",
+                    "fix_name": "GOLOP",
+                    "is_ato": false,
+                    "lat": 50.58581908058789,
+                    "lon": 14.495819719340906,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                }
+            ],
+            "time_stamp": "2016-10-20T11:41:43.604000"
+        },
+        {
+            "route": [
+                {
+                    "afl_unit": "F",
+                    "afl_value": 0.25,
+                    "eto": "2016-10-20T11:33:24",
+                    "fix_kind": "AIRPORT",
+                    "fix_name": "EKCH",
+                    "is_ato": true,
+                    "lat": 55.60305383891378,
+                    "lon": 12.633054211778296,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 2.0,
+                    "eto": "2016-10-20T11:33:59",
+                    "fix_kind": "RP",
+                    "fix_name": "Z9034",
+                    "is_ato": true,
+                    "lat": 55.61832948785555,
+                    "lon": 12.656652833484982,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 4.0,
+                    "eto": "2016-10-20T11:34:20",
+                    "fix_kind": "RP",
+                    "fix_name": "CH360",
+                    "is_ato": true,
+                    "lat": 55.62805255339319,
+                    "lon": 12.671679497557133,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 14.0,
+                    "eto": "2016-10-20T11:35:11",
+                    "fix_kind": "RP",
+                    "fix_name": "Z9048",
+                    "is_ato": true,
+                    "lat": 55.65028107736258,
+                    "lon": 12.706377354480397,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 53.0,
+                    "eto": "2016-10-20T11:36:52",
+                    "fix_kind": "RP",
+                    "fix_name": "Z9049",
+                    "is_ato": true,
+                    "lat": 55.59917340131793,
+                    "lon": 12.78887758715038,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 75.0,
+                    "eto": "2016-10-20T11:37:47",
+                    "fix_kind": "GP",
+                    "fix_name": "5533N01252E",
+                    "is_ato": true,
+                    "lat": 55.54324260571046,
+                    "lon": 12.871613554637138,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 87.0,
+                    "eto": "2016-10-20T11:38:12",
+                    "fix_kind": "GP",
+                    "fix_name": "5531N01254E",
+                    "is_ato": true,
+                    "lat": 55.51666642744383,
+                    "lon": 12.90001290488591,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 141.5,
+                    "eto": "2016-10-20T11:39:54",
+                    "fix_kind": "ENT_POINT",
+                    "fix_name": "ZZZL",
+                    "is_ato": true,
+                    "lat": 55.361729605478565,
+                    "lon": 13.02729600521592,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 149.0,
+                    "eto": "2016-10-20T11:40:07",
+                    "fix_kind": "GP",
+                    "fix_name": "5521N01303E",
+                    "is_ato": true,
+                    "lat": 55.342520903358526,
+                    "lon": 13.042980339267725,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 168.0,
+                    "eto": "2016-10-20T11:40:47",
+                    "fix_kind": "GP",
+                    "fix_name": "5517N01304E",
+                    "is_ato": true,
+                    "lat": 55.28333869827604,
+                    "lon": 13.066674682576052,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 192.0,
+                    "eto": "2016-10-20T11:41:42",
+                    "fix_kind": "APR",
+                    "fix_name": "5511N01306E",
+                    "is_ato": true,
+                    "lat": 55.1871761356186,
+                    "lon": 13.098433972147024,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 250.0,
+                    "eto": "2016-10-20T11:43:54",
+                    "fix_kind": "EOC_POINT",
+                    "fix_name": "5457N01311E",
+                    "is_ato": false,
+                    "lat": 54.946799181896004,
+                    "lon": 13.177331860007389,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 250.0,
+                    "eto": "2016-10-20T11:44:10",
+                    "fix_kind": "EXT_POINT",
+                    "fix_name": "5455N01311E",
+                    "is_ato": false,
+                    "lat": 54.915476397763136,
+                    "lon": 13.187505711960005,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 250.0,
+                    "eto": "2016-10-20T11:44:47",
+                    "fix_kind": "EOC_POINT",
+                    "fix_name": "5450N01313E",
+                    "is_ato": false,
+                    "lat": 54.840269070440065,
+                    "lon": 13.211869536940428,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 340.25,
+                    "eto": "2016-10-20T11:48:35",
+                    "fix_kind": "DUMMY_2",
+                    "fix_name": "5423N01322E",
+                    "is_ato": false,
+                    "lat": 54.381187350696315,
+                    "lon": 13.359017638146176,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T11:49:03",
+                    "fix_kind": "TOC",
+                    "fix_name": "5419N01323E",
+                    "is_ato": false,
+                    "lat": 54.32436443303256,
+                    "lon": 13.377183207573701,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:18:30",
+                    "fix_kind": "RP",
+                    "fix_name": "HDO",
+                    "is_ato": false,
+                    "lat": 50.92804720167554,
+                    "lon": 14.368896597498976,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:19:57",
+                    "fix_kind": "RP",
+                    "fix_name": "RAVKU",
+                    "is_ato": false,
+                    "lat": 50.76693870160576,
+                    "lon": 14.428887419710668,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:20:49",
+                    "fix_kind": "RP",
+                    "fix_name": "ODLIV",
+                    "is_ato": false,
+                    "lat": 50.67027009319552,
+                    "lon": 14.46444435986747,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:21:35",
+                    "fix_kind": "RP",
+                    "fix_name": "GOLOP",
+                    "is_ato": false,
+                    "lat": 50.58581908058789,
+                    "lon": 14.495819719340906,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                }
+            ],
+            "time_stamp": "2016-10-20T11:42:23.510000"
+        },
+        {
+            "route": [
+                {
+                    "afl_unit": "F",
+                    "afl_value": 0.25,
+                    "eto": "2016-10-20T11:33:24",
+                    "fix_kind": "AIRPORT",
+                    "fix_name": "EKCH",
+                    "is_ato": true,
+                    "lat": 55.60305383891378,
+                    "lon": 12.633054211778296,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 2.0,
+                    "eto": "2016-10-20T11:33:59",
+                    "fix_kind": "RP",
+                    "fix_name": "Z9034",
+                    "is_ato": true,
+                    "lat": 55.61832948785555,
+                    "lon": 12.656652833484982,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 4.0,
+                    "eto": "2016-10-20T11:34:20",
+                    "fix_kind": "RP",
+                    "fix_name": "CH360",
+                    "is_ato": true,
+                    "lat": 55.62805255339319,
+                    "lon": 12.671679497557133,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 14.0,
+                    "eto": "2016-10-20T11:35:11",
+                    "fix_kind": "RP",
+                    "fix_name": "Z9048",
+                    "is_ato": true,
+                    "lat": 55.65028107736258,
+                    "lon": 12.706377354480397,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 53.0,
+                    "eto": "2016-10-20T11:36:52",
+                    "fix_kind": "RP",
+                    "fix_name": "Z9049",
+                    "is_ato": true,
+                    "lat": 55.59917340131793,
+                    "lon": 12.78887758715038,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 75.0,
+                    "eto": "2016-10-20T11:37:47",
+                    "fix_kind": "GP",
+                    "fix_name": "5533N01252E",
+                    "is_ato": true,
+                    "lat": 55.54324260571046,
+                    "lon": 12.871613554637138,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 87.0,
+                    "eto": "2016-10-20T11:38:12",
+                    "fix_kind": "GP",
+                    "fix_name": "5531N01254E",
+                    "is_ato": true,
+                    "lat": 55.51666642744383,
+                    "lon": 12.90001290488591,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 141.5,
+                    "eto": "2016-10-20T11:39:54",
+                    "fix_kind": "ENT_POINT",
+                    "fix_name": "ZZZL",
+                    "is_ato": true,
+                    "lat": 55.361729605478565,
+                    "lon": 13.02729600521592,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 149.0,
+                    "eto": "2016-10-20T11:40:07",
+                    "fix_kind": "GP",
+                    "fix_name": "5521N01303E",
+                    "is_ato": true,
+                    "lat": 55.342520903358526,
+                    "lon": 13.042980339267725,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 168.0,
+                    "eto": "2016-10-20T11:40:47",
+                    "fix_kind": "GP",
+                    "fix_name": "5517N01304E",
+                    "is_ato": true,
+                    "lat": 55.28333869827604,
+                    "lon": 13.066674682576052,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 230.0,
+                    "eto": "2016-10-20T11:43:17",
+                    "fix_kind": "APR",
+                    "fix_name": "5501N01309E",
+                    "is_ato": true,
+                    "lat": 55.02003036975893,
+                    "lon": 13.153396463638497,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 250.0,
+                    "eto": "2016-10-20T11:44:03",
+                    "fix_kind": "EOC_POINT",
+                    "fix_name": "5456N01311E",
+                    "is_ato": false,
+                    "lat": 54.93365869705673,
+                    "lon": 13.18144493053909,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 250.0,
+                    "eto": "2016-10-20T11:44:12",
+                    "fix_kind": "EXT_POINT",
+                    "fix_name": "5455N01311E",
+                    "is_ato": false,
+                    "lat": 54.915474056216006,
+                    "lon": 13.187361450280875,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 250.0,
+                    "eto": "2016-10-20T11:44:49",
+                    "fix_kind": "EOC_POINT",
+                    "fix_name": "5450N01313E",
+                    "is_ato": false,
+                    "lat": 54.840266759263855,
+                    "lon": 13.211725545940835,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 340.25,
+                    "eto": "2016-10-20T11:48:37",
+                    "fix_kind": "DUMMY_2",
+                    "fix_name": "5423N01322E",
+                    "is_ato": false,
+                    "lat": 54.38120226814569,
+                    "lon": 13.35890301903813,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T11:49:05",
+                    "fix_kind": "TOC",
+                    "fix_name": "5419N01323E",
+                    "is_ato": false,
+                    "lat": 54.324360221540715,
+                    "lon": 13.376898880398485,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:18:33",
+                    "fix_kind": "RP",
+                    "fix_name": "HDO",
+                    "is_ato": false,
+                    "lat": 50.92804720167554,
+                    "lon": 14.368896597498976,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:20:00",
+                    "fix_kind": "RP",
+                    "fix_name": "RAVKU",
+                    "is_ato": false,
+                    "lat": 50.76693870160576,
+                    "lon": 14.428887419710668,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:20:52",
+                    "fix_kind": "RP",
+                    "fix_name": "ODLIV",
+                    "is_ato": false,
+                    "lat": 50.67027009319552,
+                    "lon": 14.46444435986747,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:21:37",
+                    "fix_kind": "RP",
+                    "fix_name": "GOLOP",
+                    "is_ato": false,
+                    "lat": 50.58581908058789,
+                    "lon": 14.495819719340906,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                }
+            ],
+            "time_stamp": "2016-10-20T11:43:18.536000"
+        },
+        {
+            "route": [
+                {
+                    "afl_unit": "F",
+                    "afl_value": 0.25,
+                    "eto": "2016-10-20T11:33:24",
+                    "fix_kind": "AIRPORT",
+                    "fix_name": "EKCH",
+                    "is_ato": true,
+                    "lat": 55.60305383891378,
+                    "lon": 12.633054211778296,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 2.0,
+                    "eto": "2016-10-20T11:33:59",
+                    "fix_kind": "RP",
+                    "fix_name": "Z9034",
+                    "is_ato": true,
+                    "lat": 55.61832948785555,
+                    "lon": 12.656652833484982,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 4.0,
+                    "eto": "2016-10-20T11:34:20",
+                    "fix_kind": "RP",
+                    "fix_name": "CH360",
+                    "is_ato": true,
+                    "lat": 55.62805255339319,
+                    "lon": 12.671679497557133,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 14.0,
+                    "eto": "2016-10-20T11:35:11",
+                    "fix_kind": "RP",
+                    "fix_name": "Z9048",
+                    "is_ato": true,
+                    "lat": 55.65028107736258,
+                    "lon": 12.706377354480397,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 53.0,
+                    "eto": "2016-10-20T11:36:52",
+                    "fix_kind": "RP",
+                    "fix_name": "Z9049",
+                    "is_ato": true,
+                    "lat": 55.59917340131793,
+                    "lon": 12.78887758715038,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 75.0,
+                    "eto": "2016-10-20T11:37:47",
+                    "fix_kind": "GP",
+                    "fix_name": "5533N01252E",
+                    "is_ato": true,
+                    "lat": 55.54324260571046,
+                    "lon": 12.871613554637138,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 87.0,
+                    "eto": "2016-10-20T11:38:12",
+                    "fix_kind": "GP",
+                    "fix_name": "5531N01254E",
+                    "is_ato": true,
+                    "lat": 55.51666642744383,
+                    "lon": 12.90001290488591,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 141.5,
+                    "eto": "2016-10-20T11:39:54",
+                    "fix_kind": "ENT_POINT",
+                    "fix_name": "ZZZL",
+                    "is_ato": true,
+                    "lat": 55.361729605478565,
+                    "lon": 13.02729600521592,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 149.0,
+                    "eto": "2016-10-20T11:40:07",
+                    "fix_kind": "GP",
+                    "fix_name": "5521N01303E",
+                    "is_ato": true,
+                    "lat": 55.342520903358526,
+                    "lon": 13.042980339267725,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 168.0,
+                    "eto": "2016-10-20T11:40:47",
+                    "fix_kind": "GP",
+                    "fix_name": "5517N01304E",
+                    "is_ato": true,
+                    "lat": 55.28333869827604,
+                    "lon": 13.066674682576052,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 230.0,
+                    "eto": "2016-10-20T11:43:17",
+                    "fix_kind": "APR",
+                    "fix_name": "5501N01309E",
+                    "is_ato": true,
+                    "lat": 55.02003036975893,
+                    "lon": 13.153396463638497,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 250.0,
+                    "eto": "2016-10-20T11:44:03",
+                    "fix_kind": "EOC_POINT",
+                    "fix_name": "5456N01311E",
+                    "is_ato": false,
+                    "lat": 54.93365869705673,
+                    "lon": 13.18144493053909,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 250.0,
+                    "eto": "2016-10-20T11:44:12",
+                    "fix_kind": "EXT_POINT",
+                    "fix_name": "5455N01311E",
+                    "is_ato": false,
+                    "lat": 54.915474056216006,
+                    "lon": 13.187361450280875,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 250.0,
+                    "eto": "2016-10-20T11:44:49",
+                    "fix_kind": "EOC_POINT",
+                    "fix_name": "5450N01313E",
+                    "is_ato": false,
+                    "lat": 54.840266759263855,
+                    "lon": 13.211725545940835,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 340.25,
+                    "eto": "2016-10-20T11:48:37",
+                    "fix_kind": "DUMMY_2",
+                    "fix_name": "5423N01322E",
+                    "is_ato": false,
+                    "lat": 54.38120226814569,
+                    "lon": 13.35890301903813,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T11:49:05",
+                    "fix_kind": "TOC",
+                    "fix_name": "5419N01323E",
+                    "is_ato": false,
+                    "lat": 54.324360221540715,
+                    "lon": 13.376898880398485,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:18:33",
+                    "fix_kind": "RP",
+                    "fix_name": "HDO",
+                    "is_ato": false,
+                    "lat": 50.92804720167554,
+                    "lon": 14.368896597498976,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:20:00",
+                    "fix_kind": "RP",
+                    "fix_name": "RAVKU",
+                    "is_ato": false,
+                    "lat": 50.76693870160576,
+                    "lon": 14.428887419710668,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:20:52",
+                    "fix_kind": "RP",
+                    "fix_name": "ODLIV",
+                    "is_ato": false,
+                    "lat": 50.67027009319552,
+                    "lon": 14.46444435986747,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:21:37",
+                    "fix_kind": "RP",
+                    "fix_name": "GOLOP",
+                    "is_ato": false,
+                    "lat": 50.58581908058789,
+                    "lon": 14.495819719340906,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                }
+            ],
+            "time_stamp": "2016-10-20T11:43:55.013000"
+        },
+        {
+            "route": [
+                {
+                    "afl_unit": "F",
+                    "afl_value": 0.25,
+                    "eto": "2016-10-20T11:33:24",
+                    "fix_kind": "AIRPORT",
+                    "fix_name": "EKCH",
+                    "is_ato": true,
+                    "lat": 55.60305383891378,
+                    "lon": 12.633054211778296,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 2.0,
+                    "eto": "2016-10-20T11:33:59",
+                    "fix_kind": "RP",
+                    "fix_name": "Z9034",
+                    "is_ato": true,
+                    "lat": 55.61832948785555,
+                    "lon": 12.656652833484982,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 4.0,
+                    "eto": "2016-10-20T11:34:20",
+                    "fix_kind": "RP",
+                    "fix_name": "CH360",
+                    "is_ato": true,
+                    "lat": 55.62805255339319,
+                    "lon": 12.671679497557133,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 14.0,
+                    "eto": "2016-10-20T11:35:11",
+                    "fix_kind": "RP",
+                    "fix_name": "Z9048",
+                    "is_ato": true,
+                    "lat": 55.65028107736258,
+                    "lon": 12.706377354480397,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 53.0,
+                    "eto": "2016-10-20T11:36:52",
+                    "fix_kind": "RP",
+                    "fix_name": "Z9049",
+                    "is_ato": true,
+                    "lat": 55.59917340131793,
+                    "lon": 12.78887758715038,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 75.0,
+                    "eto": "2016-10-20T11:37:47",
+                    "fix_kind": "GP",
+                    "fix_name": "5533N01252E",
+                    "is_ato": true,
+                    "lat": 55.54324260571046,
+                    "lon": 12.871613554637138,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 87.0,
+                    "eto": "2016-10-20T11:38:12",
+                    "fix_kind": "GP",
+                    "fix_name": "5531N01254E",
+                    "is_ato": true,
+                    "lat": 55.51666642744383,
+                    "lon": 12.90001290488591,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 141.5,
+                    "eto": "2016-10-20T11:39:54",
+                    "fix_kind": "ENT_POINT",
+                    "fix_name": "ZZZL",
+                    "is_ato": true,
+                    "lat": 55.361729605478565,
+                    "lon": 13.02729600521592,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 149.0,
+                    "eto": "2016-10-20T11:40:07",
+                    "fix_kind": "GP",
+                    "fix_name": "5521N01303E",
+                    "is_ato": true,
+                    "lat": 55.342520903358526,
+                    "lon": 13.042980339267725,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 168.0,
+                    "eto": "2016-10-20T11:40:47",
+                    "fix_kind": "GP",
+                    "fix_name": "5517N01304E",
+                    "is_ato": true,
+                    "lat": 55.28333869827604,
+                    "lon": 13.066674682576052,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 230.0,
+                    "eto": "2016-10-20T11:43:17",
+                    "fix_kind": "APR",
+                    "fix_name": "5501N01309E",
+                    "is_ato": true,
+                    "lat": 55.02003036975893,
+                    "lon": 13.153396463638497,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 250.0,
+                    "eto": "2016-10-20T11:44:03",
+                    "fix_kind": "EOC_POINT",
+                    "fix_name": "5456N01311E",
+                    "is_ato": false,
+                    "lat": 54.93365869705673,
+                    "lon": 13.18144493053909,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 250.0,
+                    "eto": "2016-10-20T11:44:12",
+                    "fix_kind": "EXT_POINT",
+                    "fix_name": "5455N01311E",
+                    "is_ato": false,
+                    "lat": 54.915474056216006,
+                    "lon": 13.187361450280875,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 250.0,
+                    "eto": "2016-10-20T11:44:49",
+                    "fix_kind": "EOC_POINT",
+                    "fix_name": "5450N01313E",
+                    "is_ato": false,
+                    "lat": 54.840266759263855,
+                    "lon": 13.211725545940835,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 340.25,
+                    "eto": "2016-10-20T11:48:37",
+                    "fix_kind": "DUMMY_2",
+                    "fix_name": "5423N01322E",
+                    "is_ato": false,
+                    "lat": 54.38120226814569,
+                    "lon": 13.35890301903813,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T11:49:05",
+                    "fix_kind": "TOC",
+                    "fix_name": "5419N01323E",
+                    "is_ato": false,
+                    "lat": 54.324360221540715,
+                    "lon": 13.376898880398485,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:18:33",
+                    "fix_kind": "RP",
+                    "fix_name": "HDO",
+                    "is_ato": false,
+                    "lat": 50.92804720167554,
+                    "lon": 14.368896597498976,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:20:00",
+                    "fix_kind": "RP",
+                    "fix_name": "RAVKU",
+                    "is_ato": false,
+                    "lat": 50.76693870160576,
+                    "lon": 14.428887419710668,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:20:52",
+                    "fix_kind": "RP",
+                    "fix_name": "ODLIV",
+                    "is_ato": false,
+                    "lat": 50.67027009319552,
+                    "lon": 14.46444435986747,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                },
+                {
+                    "afl_unit": "F",
+                    "afl_value": 350.0,
+                    "eto": "2016-10-20T12:21:37",
+                    "fix_kind": "RP",
+                    "fix_name": "GOLOP",
+                    "is_ato": false,
+                    "lat": 50.58581908058789,
+                    "lon": 14.495819719340906,
+                    "point_to_be_used_as_cop": false,
+                    "rfl_unit": "F",
+                    "rfl_value": 350.0,
+                    "rule": "I"
+                }
+            ],
+            "time_stamp": "2016-10-20T11:43:55.280000"
+        }
+    ]
+}

@@ -1,6 +1,7 @@
 services:
   postgres_endpoint: provided_to_you
   minio_endpoint: provided_to_you 
+  translate_endpoint: ask_if_you_want
 minio:
   access_key: go_to_minio_to_get
   secret_key: go_to_minio_to_get
