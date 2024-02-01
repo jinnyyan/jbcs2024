@@ -2,6 +2,8 @@
 
 Follow along with powerpoint and notebook instruction. Try to take a stab at the extra credit if you can!
 
+Make sure to set up a `keys.yaml` first with your secrets; start with the template from `keys-template.yaml` for formatting.
+
 ### Notebooks
 * 1-playing-with-s3.ipynb - Learn how to pull objects, list bucket contents, and view metadata of objects in MinIO (S3-compatible object storage)
 * 2-postgres101.ipynb - Query and Insert to Postgres tables
